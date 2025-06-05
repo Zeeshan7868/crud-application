@@ -34,8 +34,8 @@ CREATE TABLE `user` (
 
 insert  into `user`(`user_id`,`first_name`,`middle_name`,`last_name`,`email`,`phone_number`) values 
 (3,'Haider','ahmed','channa','haider@gmail.com','3432432423'),
-(12,'Ahmed ','Ali','Channa       ','ac@gmail.com','02344-4343234'),
-(13,'AbdulA','RehmanA','channaA   ','ab@gmail.comA','9343223424A'),
+(12,'Ahmed ','Ali','Channa','ac@gmail.com','02344-4343234'),
+(13,'AbdulA','Rehman','channa','ab@gmail.comA','9343223424A'),
 (14,'Ali ','Khan','Mallah','ak@gmail.com','034234242342'),
 (15,'Ali ahmed','Khan','Mallah','aak@gmail.com','0344242342'),
 (16,'Rehan','Raheem','Mallah','rr@gmail.com','3432342');
